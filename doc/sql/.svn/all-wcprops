@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/4/trunk/doc/sql
+END
+testdata_table_Artworks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/doc/sql/testdata_table_Artworks.sql
+END
+testdata_table_Masters.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/doc/sql/testdata_table_Masters.sql
+END
+testdata_table_ArtworkTypes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/doc/sql/testdata_table_ArtworkTypes.sql
+END
+reset_table_Articles.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/doc/sql/reset_table_Articles.sql
+END
+reset_table_Messages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/doc/sql/reset_table_Messages.sql
+END
+testdata_table_Links.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/doc/sql/testdata_table_Links.sql
+END
+reset_table_Artworks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/doc/sql/reset_table_Artworks.sql
+END
+reset_table_Masters.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/doc/sql/reset_table_Masters.sql
+END
+reset_table_ArtworkTypes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/doc/sql/reset_table_ArtworkTypes.sql
+END
+reset_table_Links.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/doc/sql/reset_table_Links.sql
+END
+testdata_all_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/doc/sql/testdata_all_tables.sql
+END
+load_testdata_Masters.text
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/doc/sql/load_testdata_Masters.text
+END
+reset_all_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/doc/sql/reset_all_tables.sql
+END
+generate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/doc/sql/generate.sh
+END
+testdata_table_Articles.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/doc/sql/testdata_table_Articles.sql
+END
+testdata_table_Messages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/doc/sql/testdata_table_Messages.sql
+END
